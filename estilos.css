@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    /*background: linear-gradient(to right, #25002e, #a000d1);*/
+    background: url(fondo.png) no-repeat center center fixed;
+    background-size: cover;
+  }
+  
+  #login .container #login-row #login-column #login-box {
+    margin-top: 10px; /* margen superior 70px */
+    max-width: 600px; /* maximo del ancho */
+    height: 320px; /* altura de la caja */
+    box-shadow: 2px 2px 2px 2px #343a40; /* sombra*/
+    border-radius: 2px;  /* bordes de la esquina */  
+  }
+
